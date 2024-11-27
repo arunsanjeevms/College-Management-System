@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="assests/Banner.jpg" alt="Logo" width="80" height="80">
+    <img src="./assests/Banner.jpg" alt="Logo" width="80" height="80">
   </a>
 <br><br>
 <h1 align="center">College Management System</h1>
@@ -99,11 +99,12 @@ The College Management System is a software application designed to automate and
 
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,eclipse," />
+  </a>
+</p>
 
-<center> <div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> 
-
-  </a> &nbsp;&nbsp;
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>    </div> </center>
 
 ## Tech Stack I Used Here
 - **Frontend**: Java Swing for GUI
