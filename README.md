@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./assets/Banner.jpg" alt="Banner" >
+    <img src="./assets/Banner.gif.gif" alt="Banner" >
   </a>
 <br><br>
 <h1 align="center">College Management System</h1>
