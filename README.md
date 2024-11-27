@@ -91,7 +91,7 @@
 ## About The Project
 The College Management System is a software application designed to automate and manage the core functions of a college, including student data management, faculty assignment, attendance tracking, and course performance evaluation. This system provides an efficient interface to bridge the gap between administrative tasks and user interactions.
 
-<p align="right"><a href="#readme-top">🔝</a></p>
+
 
 
 
@@ -114,7 +114,7 @@ The College Management System is a software application designed to automate and
 - **Database Management Tool**: MySQL Workbench
 -  **Database Connector**: JDBC Connector
 
-<p align="right"><a href="#readme-top">🔝</a></p>
+
 
 ---
 
