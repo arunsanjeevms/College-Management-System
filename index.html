@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: rgb(138, 147, 150);">
+   <center> <h1> CM TO INCHES </h1> </center>
+   <div>
+         <center>
+                <input type="text" name="cm" placeholder="Enter the value in cm" >
+                <input type="submit" name="submit" onclick="convert()" value="Convert">
+                <h1 id="inches"> The value in inches is: </h1>
+                <script>
+                    function convert(){
+                        let cm = Number(document.getElementsByName("cm")[0].value);
+                        let inche = cm * 0.393701;
+                        let inn = document.getElementById("inches");
+                        inn.innerHTML = "The value in inches is: " + inche;
+                    }
+                </script>
+         </center>
+   </div>
+
+</body>
+</html>
